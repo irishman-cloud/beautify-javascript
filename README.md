@@ -1,4 +1,4 @@
-# Irishman Beautify's Javascript SDK
+# ![Irishman Beautify's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/beautify-javascript/master/.github/banner.svg)
 
 Make code pretty and quickly explainable.
 

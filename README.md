@@ -1,6 +1,9 @@
 # ![Irishman Beautify's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/beautify-javascript/master/.github/banner.svg)
 
-Make code pretty and quickly explainable.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/beautify-javascript)](https://github.com/irishman-cloud/beautify-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/beautify-javascript)](https://github.com/irishman-cloud/beautify-javascript/issues)
+
+<b align="center">Make code pretty and quickly explainable.</b>
 
 ## Table of Contents
 
